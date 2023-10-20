@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f11c053-77f6-46cb-bdce-ee1779225e41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dz1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,14 +63,28 @@
       <workItem from="1697818370720" duration="237000" />
       <workItem from="1697822557982" duration="61000" />
       <workItem from="1697824268706" duration="1131000" />
-      <workItem from="1697829680983" duration="1419000" />
+      <workItem from="1697829680983" duration="2772000" />
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <option name="closed" value="true" />
+      <created>1697831123947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697831123947</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/_4______py$dz2.coverage" NAME="dz2 Coverage Results" MODIFIED="1697832037273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_4______py$dz1.coverage" NAME="dz1 Coverage Results" MODIFIED="1697831058994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
