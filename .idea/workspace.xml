@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f11c053-77f6-46cb-bdce-ee1779225e41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Solutions/stepik.org/lesson/1067202/step/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solutions/stepik.org/lesson/1067202/step/5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solutions/QuadraticEquations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/PyHometask4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/PytAKB/4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Documents\GitHub\Home\Solutions\PytAKB" />
+      <recent name="E:\Documents\GitHub\Home\Solutions\MLKB" />
       <recent name="E:\Documents\GitHub\Home\Solutions" />
       <recent name="E:\Documents\GitHub\Home" />
     </key>
@@ -74,7 +74,7 @@
       <workItem from="1697829680983" duration="6934000" />
       <workItem from="1697881058414" duration="1035000" />
       <workItem from="1697977974270" duration="23000" />
-      <workItem from="1698005840334" duration="4605000" />
+      <workItem from="1698005840334" duration="5217000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <option name="closed" value="true" />
@@ -148,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698010583029</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=".">
+      <option name="closed" value="true" />
+      <created>1698014367430</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698014367430</updated>
+    </task>
+    <task id="LOCAL-00011" summary=".">
+      <option name="closed" value="true" />
+      <created>1698014528294</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698014528294</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
