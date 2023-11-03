@@ -35,8 +35,8 @@ def max1(a=None, b=None, c=None):  # Функция с аргументами п
             return a  # отдаём a
         elif a <= b:  # Если b больше
             return b  # отдаём b
-        else:  # иначе
-            return f'{a}={b}'  # Вернём, что оба равны
+    else:
+        return "Аргументы отсутствуют"
 
 
 print(max1(5, 4, 3))  # Вызываем функцию для примера
