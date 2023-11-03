@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f11c053-77f6-46cb-bdce-ee1779225e41" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Solutions/MLKB/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/MLKB/6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solutions/PytAKB/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/PytAKB/6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,7 @@
       <workItem from="1698081215017" duration="2759000" />
       <workItem from="1698348072504" duration="594000" />
       <workItem from="1698767205380" duration="5058000" />
-      <workItem from="1699019342824" duration="4400000" />
+      <workItem from="1699019342824" duration="5291000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <option name="closed" value="true" />
@@ -224,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699020187658</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=".">
+      <option name="closed" value="true" />
+      <created>1699024861651</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699024861651</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +247,7 @@
     <SUITE FILE_PATH="coverage/_4______py$5.coverage" NAME="5 Coverage Results" MODIFIED="1698768553059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Solutions/PytAKB" />
     <SUITE FILE_PATH="coverage/_4______py$dz2.coverage" NAME="dz2 Coverage Results" MODIFIED="1697832644877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_4______py$dz1.coverage" NAME="dz1 Coverage Results" MODIFIED="1697831058994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/_4______py$6.coverage" NAME="6 Coverage Results" MODIFIED="1699024445304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Solutions/PytAKB" />
+    <SUITE FILE_PATH="coverage/_4______py$6.coverage" NAME="6 Coverage Results" MODIFIED="1699024810571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Solutions/PytAKB" />
     <SUITE FILE_PATH="coverage/_4______py$dz3.coverage" NAME="dz3 Coverage Results" MODIFIED="1697881151911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_4______py$4.coverage" NAME="4 Coverage Results" MODIFIED="1698771688662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Solutions/MLKB" />
   </component>
