@@ -38,10 +38,10 @@ print(string)  # Вывод
 """Проверка на анаграмму. Пользователь вводит две строки. Напишите программу, которая определяет, являются ли
 эти строки анаграммами (содержат одни и те же символы, но в разном порядке). Выведите соответствующее сообщение.
 Воспользуйтесь множеством для сравнения уникальных символов в строке, но не забудьте избавиться от пробелов."""
-string1 = set(input().replace(' ', ''))
-string2 = set(input().replace(' ', ''))
+str1 = set(input().replace(' ', ''))
+str2 = set(input().replace(' ', ''))
 
-if string1 == string2:
+if str1 == str2:
     print('анаграмма')
 else:
     print('не анаграмма')
@@ -60,8 +60,8 @@ else:
 Иванов Михайлов
 Сидоров Михайлов
 Вывод: Михайлов"""
-three = (set(input().split()) & set(input().split()) & set(input().split()))
-if three:
-    print(*sorted(three))
+result = (set(input().split()) & set(input().split()) & set(input().split()))
+if result:
+    print(*sorted(result))
 else:
     print('Все три задачи никто не решил')
