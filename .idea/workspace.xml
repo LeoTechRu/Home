@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f11c053-77f6-46cb-bdce-ee1779225e41" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solutions/PytAKB/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/PytAKB/10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/MLKB/ProjectTicTacToe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/MLKB/tic_tac_toe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <workItem from="1699019342824" duration="6672000" />
       <workItem from="1699038150736" duration="962000" />
       <workItem from="1699460052267" duration="5596000" />
-      <workItem from="1699716273835" duration="4642000" />
+      <workItem from="1699716273835" duration="4943000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <option name="closed" value="true" />
@@ -338,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699719946364</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary=".">
+      <option name="closed" value="true" />
+      <created>1699721187349</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1699721187349</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
