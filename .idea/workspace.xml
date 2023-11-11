@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f11c053-77f6-46cb-bdce-ee1779225e41" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solutions/MLKB/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/MLKB/7.py" afterDir="false" />
-    </list>
+    <list default="true" id="1f11c053-77f6-46cb-bdce-ee1779225e41" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +93,7 @@
       <workItem from="1699019342824" duration="6672000" />
       <workItem from="1699038150736" duration="962000" />
       <workItem from="1699460052267" duration="5596000" />
-      <workItem from="1699716273835" duration="1543000" />
+      <workItem from="1699716273835" duration="1956000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <option name="closed" value="true" />
@@ -298,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699464311621</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary=".">
+      <option name="closed" value="true" />
+      <created>1699718017076</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1699718017076</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
