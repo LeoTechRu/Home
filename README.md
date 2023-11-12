@@ -6,8 +6,10 @@
 
 Написать мне можно в https://t.me/leotechru
 
-Я публикую свои заметки по обучению в https://t.me/intdata
+Мой канал: https://t.me/EmGap
+
+Публикую свои заметки по обучению в https://t.me/intdata
 
 А так-же публикую всякие технические новости и научпоп в https://t.me/scipunk
 
-Ну и иногда публикую заметки по ментальному и физическому развитию в https://t.me/EmGap
+Избранное: https://github.com/LeoTechRu/Home/wiki/Links
