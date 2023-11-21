@@ -34,7 +34,25 @@ print(Str2.count('x'), Str2.count('y'))
 She was fantastic (as always)!
 Вывод: a girl he used to go to school with
 as always"""
-Str3 = ('When he saw Sally (a girl he used to go to school with) in the shop, he could not believe his eyes. '
-        'She was fantastic (as always)!')
-print(Str3[Str3.find('(') + 1:Str3.find(')')],
-      Str3[Str3.find('(', Str3.find(')')) + 1:Str3.find(')', Str3.find(')')+1)], sep='\n')
+def extract_bracket_contents(text):
+    stack = []
+    result = []
+
+    for char in text:
+        if char == '(':
+            stack.append('')
+        elif char == ')':
+            if stack:
+                result.append(stack.pop())
+        else:
+            if stack:
+                stack[-1] += char
+
+    return result
+
+input_text = "'When (he saw) Sally (a girl he used to go to school with) in the shop, he could not believe ''his eyes. ''She (was fantastic) (as always)!')"
+
+output = extract_bracket_contents(input_text)
+
+for item in output:
+    print(item)
