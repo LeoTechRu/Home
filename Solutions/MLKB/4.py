@@ -50,9 +50,7 @@ def extract_bracket_contents(text):
 
     return result
 
-input_text = "'When (he saw) Sally (a girl he used to go to school with) in the shop, he could not believe ''his eyes. ''She (was fantastic) (as always)!')"
-
-output = extract_bracket_contents(input_text)
+output = extract_bracket_contents("'When (he saw) Sally (a girl he used to go to school with) in the shop, he could not believe ''his eyes. ''She (was fantastic) (as always)!')")
 
 for item in output:
     print(item)
