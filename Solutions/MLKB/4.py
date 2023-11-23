@@ -34,21 +34,13 @@ print(Str2.count('x'), Str2.count('y'))
 She was fantastic (as always)!
 Вывод: a girl he used to go to school with
 as always"""
-def extract_bracket_contents(text):
-    stack = []
-    result = []
+text = "'When (he saw) (S)ally (a girl he used to go to school with) in the shop, he could not believe ''his eyes. ''She (was fantastic) (as always)!')"
+result = ""
 
-    for char in text:
-        if char == '(':
-            stack.append('')
-        elif char == ')':
-            if stack:
-                result.append(stack.pop())
-        else:
-            if stack:
-                stack[-1] += char
+while '(' in text:
+    start_index = text.find('(')
+    end_index = text.find(')')
+    result += text[start_index + 1:end_index] + '\n'
+    text = text[:start_index] + text[end_index + 1:]
 
-    return result
-
-for item in extract_bracket_contents("'When (he saw) (S)ally (a girl he used to go to school with) in the shop, he could not believe ''his eyes. ''She (was fantastic) (as always)!')"):
-    print(item)
+print(result)
