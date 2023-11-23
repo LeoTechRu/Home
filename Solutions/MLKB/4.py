@@ -42,3 +42,4 @@ while '(' in text:
     text = text[:text.find('(')] + text[text.find(')') + 1:]
 
 print(res)
+
