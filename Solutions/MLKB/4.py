@@ -42,4 +42,12 @@ while '(' in text:
     text = text[:text.find('(')] + text[text.find(')') + 1:]
 
 print(res)
+#Либо так:
+text = input()
+res = ""
 
+for i in range(text.find('(')):
+    res += text[text.find('(') + 1:text.find(')')] + '\n'
+    text = text[:text.find('(')] + text[text.find(')') + 1:]
+
+print(res)
