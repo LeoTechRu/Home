@@ -35,12 +35,10 @@ She was fantastic (as always)!
 Вывод: a girl he used to go to school with
 as always"""
 text = "'When (he saw) (S)ally (a girl he used to go to school with) in the shop, he could not believe ''his eyes. ''She (was fantastic) (as always)!')"
-result = ""
+res = ""
 
 while '(' in text:
-    start_index = text.find('(')
-    end_index = text.find(')')
-    result += text[start_index + 1:end_index] + '\n'
-    text = text[:start_index] + text[end_index + 1:]
+    res += text[text.find('(') + 1:text.find(')')] + '\n'
+    text = text[:text.find('(')] + text[text.find(')') + 1:]
 
-print(result)
+print(res)
